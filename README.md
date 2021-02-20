@@ -1,6 +1,6 @@
 # homework_week1
 ----------------------------------------
-The week 1 Homework assignment Breif is as follows:
+The week 1 Homework assignment Brief is as follows:
 
 ## User Story
 
