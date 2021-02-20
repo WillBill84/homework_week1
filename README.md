@@ -49,3 +49,12 @@ Consolidated classes that were using the same styles into one.
 Removed duplicate css
 
 Commented and organised the css
+
+## View Site
+
+link to deployed application
+https://willbill84.github.io/homework_week1/
+
+Screenshot
+
+![screen_shot](https://user-images.githubusercontent.com/78286026/108585057-3e298b80-739a-11eb-99bd-6cbdd27acf29.png)
