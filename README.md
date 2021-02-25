@@ -28,9 +28,7 @@ THEN I find a concise, descriptive title
 ----------------------------------------------
 
 
-## Changes made to the website 
-
-Added in the viewport inside the head tags.
+## Changes made to the website to meet the criteria
 
 Added in a title.
 
