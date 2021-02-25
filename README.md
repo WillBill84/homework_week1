@@ -1,18 +1,21 @@
-# homework_week1
-----------------------------------------
-The week 1 Homework assignment Brief is as follows:
+# homework_week1 - Horiseon Social Solution Services
+--------------------------------------------------
+The week 1 Homework assignment was to make changes to a website focusing on accessibility and refactoring.
 
+The brief is as follows:
+
+```
 ## User Story
 
-```
+
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+SO THAT our own site is optimised for search engines
+
 
 ## Acceptance Criteria
 
-```
+
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -25,11 +28,10 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-----------------------------------------------
-
 
 ## Changes made to the website to meet the criteria
 
+```
 Added in a title.
 
 Used semantic HTML elements.
@@ -42,11 +44,22 @@ Cleaned up the formatting throughout the html.
 
 Added comments to html.
 
-Consolidated classes that were using the same styles into one.
+Consolidated classes that we're using the same styles into one.
 
 Removed duplicate css
 
 Commented and organised the css
+```
+
+## Technologies
+
+```
+Languages used in the assignment:
+
+•HTML 
+
+•CSS
+```
 
 ## View Site
 
